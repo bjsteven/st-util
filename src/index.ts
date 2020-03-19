@@ -67,7 +67,8 @@ export {
 
 export {
   delay,
-  countDown
+  countDown,
+  interval
 } from './lib/timer'
 
 export {
